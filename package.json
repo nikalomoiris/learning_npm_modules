@@ -1,5 +1,5 @@
 {
-  "name": "learning_npm_modules",
+  "name": "@nikalomiris/learning_npm_modules",
   "version": "1.0.0",
   "description": "My first attempt to create and publish an npm module. No real-world use-case, just for learning purposes.",
   "main": "index.js",
